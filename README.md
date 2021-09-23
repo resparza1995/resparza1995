@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h2> Hi, I'm fytta! 👋</h2>
+<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47842vkoqoavjc67hi13u44itejd0nvp4ke0t1d1cs&rid=giphy.gif&ct=g" width="230">
+<p><em>Studying -> Master's Degree in Software Engineering, Formal Methods and Information Systems.
+  At -> <a href="http://www.upv.es">Valencia Polytechnic University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </br>Working as -> Fullstack developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <!--
 **fytta/fytta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
