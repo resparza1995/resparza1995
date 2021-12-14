@@ -6,6 +6,8 @@
 :pushpin: *At [Valencia Polytechnic University](http://www.upv.es)*   
 :computer: *Working as a Fullstack developer*  
 
+:sparkles: [Tech stack tools](https://github.com/fytta/My-Technology-Stack)
+
 <hr>
 
 ### Working daily with
