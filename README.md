@@ -1,4 +1,4 @@
-<h2> Hi There, I'm fytta!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2> Hi There, I'm fytta!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h2>
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47842vkoqoavjc67hi13u44itejd0nvp4ke0t1d1cs&rid=giphy.gif&ct=g" width="300">
 
 :mortar_board: *I am a Computer Engineer*   
