@@ -1,34 +1,35 @@
-<h2> Hi There, I'm fytta!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h2>
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47842vkoqoavjc67hi13u44itejd0nvp4ke0t1d1cs&rid=giphy.gif&ct=g" width="300">
+<h2> Hi There, I'm Rafa!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h2>   
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://es.linkedin.com/in/boralbgra/)](https://www.linkedin.com/in/rafa-esparza-387486114/)&nbsp;
 
 :mortar_board: *I am a Computer Engineer*   
 :books: *Studying Master's Degree in Software Engineering, Formal Methods and Information Systems*   
 :pushpin: *At [Valencia Polytechnic University](http://www.upv.es)*   
 :computer: *Working as a Fullstack developer*  
-:sparkles: [Tech stack tools](https://github.com/fytta/My-Technology-Stack)
 
-<hr>
+#### Current stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)   
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Nest](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nest.js)   
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)     
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
 
-### Working daily with
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-<br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-<br>
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+#### I worked with
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)   
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
+![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
 
-<hr>
 
-### Others That I Used
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+
