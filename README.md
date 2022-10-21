@@ -30,6 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
 
-
-
-
+#### I Sometimes hang out here
+:small_red_triangle: [HackerRank](https://www.hackerrank.com/fytta)    
+:small_red_triangle_down: [CodeSignal](https://app.codesignal.com/profile/fytta)   
