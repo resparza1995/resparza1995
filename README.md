@@ -2,10 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://es.linkedin.com/in/boralbgra/)](https://www.linkedin.com/in/rafa-esparza-387486114/)&nbsp;
 
-:mortar_board: *I am a Computer Engineer*   
-:books: *Studying Master's Degree in Software Engineering, Formal Methods and Information Systems*   
+:mortar_board: *I am a Computer Engineer with Master's Degree in Software Engineering, Formal Methods and Information Systems*   
 :pushpin: *At [Valencia Polytechnic University](http://www.upv.es)*   
-:computer: *Working as a Fullstack developer*  
+:computer: *Working as a ~~NullPointerException~~*  
 
 #### Current stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
