@@ -6,7 +6,7 @@
 :pushpin: *At [Valencia Polytechnic University](http://www.upv.es)*   
 :computer: *Working as a ~~NullPointerException~~*  
 
-#### Current stack
+#### Last working stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -29,6 +29,10 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
 
+#### Learning
+:small_red_triangle_down: C++ && [Unreal Engine](https://dev.epicgames.com/community/profile/eME7K/fytta)   
+:small_red_triangle_down: Unity
+
+
 #### Sometimes I hang out here
 :small_red_triangle: [HackerRank](https://www.hackerrank.com/fytta)    
-:small_red_triangle_down: [Unreal Engine](https://dev.epicgames.com/community/profile/eME7K/fytta)   
