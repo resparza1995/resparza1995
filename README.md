@@ -29,10 +29,6 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
 
-#### Learning
-:small_red_triangle_down: C++ && [Unreal Engine](https://dev.epicgames.com/community/profile/eME7K/fytta)   
-:small_red_triangle_down: Unity
-
-
 #### Sometimes I hang out here
+:small_red_triangle_down: Making games with Unity 
 :small_red_triangle: [HackerRank](https://www.hackerrank.com/fytta)    
