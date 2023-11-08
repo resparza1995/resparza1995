@@ -30,5 +30,6 @@
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
 
 #### Sometimes I hang out here
-:small_red_triangle_down: Making games with Unity 
-:small_red_triangle: [HackerRank](https://www.hackerrank.com/fytta)    
+![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)   
+:small_red_triangle_down: Making games with Unity   
+:small_red_triangle: [HackerRank](https://www.hackerrank.com/fytta)       
