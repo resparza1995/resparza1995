@@ -7,6 +7,7 @@
 :computer: *Working as a ~~NullPointerException~~*  
 
 #### Last working stack
+![C#](https://img.shields.io/badge/-C_sharp-black?style=flat-square&logo=c#)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
