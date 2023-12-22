@@ -29,8 +29,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)    
 
 #### Sometimes I hang out here
-![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)   
-:small_red_triangle_down: Making games with [Unity](https://learn.unity.com/u/5eab2260edbc2a0020dfdf94?tab=profile)   
-:small_red_triangle: [HackerRank](https://www.hackerrank.com/fytta)       
+[![Unity profile](https://skillicons.dev/icons?i=unity)](https://learn.unity.com/u/5eab2260edbc2a0020dfdf94?tab=profile)
+[![.Net profile](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/es-es/users/resparza/transcript/vn0yxapo9l2lj0q)
+[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev)    
+[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/fytta)
