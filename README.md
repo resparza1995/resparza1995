@@ -6,7 +6,17 @@
 :pushpin: *At [Valencia Polytechnic University](http://www.upv.es)*   
 :computer: *Working as a ~~NullPointerException~~*  
 
-#### Last working stack
+#### Current stack
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Junit](https://img.shields.io/badge/junit-black?style=flat-square&logo=junit5)
+![Sonarqube](https://img.shields.io/badge/sonarqube-black?style=flat-square&logo=sonarqube)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)   
+![Oracle DB](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle)
+![PL/SQL](https://img.shields.io/badge/-pl/sql-red?style=flat-square&logo=oracle)
+
+
+#### I worked with
 ![C#](https://img.shields.io/badge/-C_sharp-black?style=flat-square&logo=c#)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -17,15 +27,10 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Nest](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nest.js)   
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)     
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
-
-#### I worked with
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)   
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
@@ -34,5 +39,4 @@
 #### Sometimes I hang out here
 [![Unity profile](https://skillicons.dev/icons?i=unity)](https://learn.unity.com/u/5eab2260edbc2a0020dfdf94?tab=profile)
 [![.Net profile](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/es-es/users/resparza/transcript/vn0yxapo9l2lj0q)
-[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev)    
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/fytta)
