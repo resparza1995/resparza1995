@@ -7,12 +7,12 @@
 :computer: *Working as a Software Engineer at NTTData Europe & Latam* 
 
 #### What you will find here
-Different projects that I have been doing during the university, master and other courses that I am studying.
-Projects exploring different frameworks and technologies.
-Exercises solving challenges to practice and entertain myself.
-
-My expertise is Java, Javascript and Python.
-I explored C++ and C# learning something about videogames.
+Different projects that I have been doing during the university, master and other courses that I am studying.   
+Projects exploring different frameworks and technologies.   
+Exercises solving challenges to practice and entertain myself.   
+   
+My expertise is Java, Javascript and Python.   
+I explored C++ and C# learning something about videogames.   
 
 #### Current stack
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -45,4 +45,3 @@ I explored C++ and C# learning something about videogames.
 
 #### Sometimes I hang out here
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/fytta)
-[![.Net profile](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/es-es/users/resparza/transcript/vn0yxapo9l2lj0q)
