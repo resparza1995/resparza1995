@@ -25,7 +25,8 @@ I explored C++ and C# learning something about videogames.
 ![PL/SQL](https://img.shields.io/badge/-pl/sql-red?style=flat-square&logo=oracle)
 
 #### I worked with
-![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)  
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+![fastapi](https://img.shields.io/badge/-fastapi-black?style=flat-square&logo=fastapi)   
 ![C#](https://img.shields.io/badge/-C_sharp-black?style=flat-square&logo=c#)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
