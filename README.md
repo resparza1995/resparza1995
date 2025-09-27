@@ -12,7 +12,7 @@ Projects exploring different frameworks and technologies.
 Exercises solving challenges to practice and entertain myself.   
    
 My expertise is Java, Javascript and Python.   
-I explored C++ and C# learning something about videogames.   
+I am currently focused on cybersecurity.  
 
 #### Current stack
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -46,4 +46,6 @@ I explored C++ and C# learning something about videogames.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)    
 
 #### Sometimes I hang out here
-[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/fytta)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fytta)   
+[![tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/fytta)  
+[![roadmap.sh](https://roadmap.sh/card/tall/680a84ebd37fbe923d47ecba?variant=dark&roadmaps=)](https://roadmap.sh)
