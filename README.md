@@ -13,18 +13,22 @@ Projects exploring different frameworks and technologies.
 Exercises solving challenges to practice and entertain myself.   
    
 My expertise is Java, Javascript and Python.   
-I am currently focused on cybersecurity.  
+I am currently focused on development using AI Agents.  
 
 #### Current stack
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Junit](https://img.shields.io/badge/junit-black?style=flat-square&logo=junit5)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Junit](https://img.shields.io/badge/junit-black?style=flat-square&logo=junit5)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Sonarqube](https://img.shields.io/badge/sonarqube-black?style=flat-square&logo=sonarqube)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)  
 ![Oracle DB](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle)
 ![PL/SQL](https://img.shields.io/badge/-pl/sql-red?style=flat-square&logo=oracle)
-
+![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)  
+  
 #### I worked with
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![fastapi](https://img.shields.io/badge/-fastapi-black?style=flat-square&logo=fastapi)   
@@ -37,14 +41,11 @@ I am currently focused on cybersecurity.
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Nest](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nest.js)   
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)    
+  
 
 #### Sometimes I hang out here
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fytta)  
